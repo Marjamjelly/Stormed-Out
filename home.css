@@ -342,7 +342,7 @@ div.articleRight {
 	border: 1px solid #c8ccd1;
 	padding: 3px;
 	float: right;
-	background-color: #f8f9fa;
+	background-color: #b0d5ff;
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
@@ -355,7 +355,7 @@ div.articleRight {
 div.articleRightInner {
 	border: 1px solid #c8ccd1;
 	padding: 3px;
-	background-color: #f8f9fa;
+	background-color: #b0d5ff;
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
@@ -476,7 +476,7 @@ span.user {
 }
 .contentsPanel {
 	border: 1px solid #a2a9b1;
-	background-color: #f8f9fa;
+	background-color: #b3ffb0;
 	padding: 5px;
 	font-size: 95%;
 	position: relative;
