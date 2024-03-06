@@ -483,6 +483,7 @@ span.user {
 	position: relative;
 	line-height: 1.7em;
 	width: 50%;
+	float: left;
 }
 .contentsHeader {
 	font-family: sans-serif;
