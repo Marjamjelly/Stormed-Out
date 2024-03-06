@@ -342,7 +342,7 @@ div.articleRight {
 	border: 1px solid #c8ccd1;
 	padding: 3px;
 	float: right;
-	background-color: #f5faff;
+	background-color: #cedff2;
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
@@ -355,7 +355,7 @@ div.articleRight {
 div.articleRightInner {
 	border: 1px solid #c8ccd1;
 	padding: 3px;
-	background-color: #b0d5ff;
+	background-color: #f5faff;
 	font-size: 94%;
 	text-align: center;
 	overflow: hidden;
@@ -487,6 +487,8 @@ span.user {
 	font-family: sans-serif;
 	font-weight: bold;
 	text-align: center;
+	border: 1px solid #a2a9b1;
+	background-color: #cef2e0;
 }
 .hidePanel, .showPanel {
 	float: right;
